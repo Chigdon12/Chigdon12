@@ -1,4 +1,6 @@
-## Hi there 👋
+## Howdy there! 👋
+
+My name is Caley Higdon and I am an SFSU Business Student.
 
 <!--
 **Chigdon12/Chigdon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
