@@ -2,8 +2,12 @@
 
 My name is Caley Higdon and I am an SFSU Business Student.
 
-<!--
-**Chigdon12/Chigdon12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My hobbies include:
+- Gaming
+- Reading
+- Playing with my cat, Honeybee
+  
+**Chigdon1Reading12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
